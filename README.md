@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ananya Shankar.
 - 👀 I’m interested in 3D Design and Python.
-- 🌱 I’m a student of Delhi Public School, R. K. Puram.
+- 🌱 I’m a studying at Delhi Public School, R. K. Puram.
 - 📫 How to reach me - shankarananya20@gmail.com
 
 <!---
